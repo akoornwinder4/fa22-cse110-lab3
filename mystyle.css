@@ -46,6 +46,21 @@ div:hover {
 
 em {
     font-size: 5mm;
+    
+    display: flex;
+    flex-direction: row;
+    height: 20px;
+    align-items: stretch;
+    row-gap: 20px;
+
+}
+
+h4 {
+    display: grid;
+    grid-template-columns: 100px 50px 100px;
+    grid-template-rows: 80px auto 80px; 
+    column-gap: 10px;
+    row-gap: 15px;
 }
 
 summary {
