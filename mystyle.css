@@ -101,3 +101,6 @@ button:active{
     font-family: Arial, Helvetica, sans-serif;
   }
   
+  [class*='coor'] {
+    background-color: yellow;
+  }
