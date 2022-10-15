@@ -1,3 +1,18 @@
 /* This is my css sheet for my whale society page */
 
+h1 {
+    color: blue; 
+}
 
+h2 {
+    color: rgb(142, 49, 139);
+}
+
+h3 {
+    color: #228B22;
+}
+
+
+p {
+    color: rgb(24, 92, 92);
+}
