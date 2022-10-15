@@ -96,4 +96,8 @@ button:active{
     text-align: center;
     color: rgb(51, 109, 90);
   }
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+  }
   
