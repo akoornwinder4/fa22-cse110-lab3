@@ -6,7 +6,13 @@ h1{
     margin-top: 50px;
     text-align: center;
     display: inline-block;
+    font-family: 'satisfy';
 }
+
+@font-face {
+    font-family: 'satisfy';
+    src: url(Satisfy-Regular.ttf);
+  }
 
 h2 {
     color: rgb(142, 49, 139);
