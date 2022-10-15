@@ -105,14 +105,7 @@ button:active{
     background-color: yellow;
   }
 
-  button:hover {
-    color: orchid;
-    background-color: #228B22;
-  }
-
-  summary, details {
-    font-family: fantasy;
-  }
+  
 
   /* child combinator*/
 details > p {
