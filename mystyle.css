@@ -2,14 +2,18 @@
 
 h1 {
     color: blue; 
+    font-size: 3em;
+    
 }
 
 h2 {
     color: rgb(142, 49, 139);
+    font-size: 5ex;
 }
 
 h3 {
     color: #228B22;
+    font-size: 2vw;
 }
 
 
@@ -19,4 +23,16 @@ p {
 
 body {
     background-color: rgb(222, 239, 242);
+}
+
+div {
+    font-size: 0.5cm;
+}
+
+em {
+    font-size: 5mm;
+}
+
+summary {
+    font-size: .18in;
 }
