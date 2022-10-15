@@ -109,3 +109,7 @@ button:active{
     color: orchid;
     background-color: #228B22;
   }
+
+  summary, details {
+    font-family: fantasy;
+  }
