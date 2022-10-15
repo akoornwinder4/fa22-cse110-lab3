@@ -50,3 +50,11 @@ em {
 summary {
     font-size: .18in;
 }
+
+button {
+    height: 100px;
+    width: 100px;
+    max-width: 100px;
+    min-width: none;
+    color:blueviolet;
+}
